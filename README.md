@@ -10,10 +10,10 @@ w2_guess_the_number.py
 
 ## Mini-project # 3 - "Stopwatch: The Game
 
-the game code in w3_stopwatch.py
+w3_stopwatch.py
 
 
 ##  Mini-project # 4 - "Pong"
 
-the game code in w4_pong.py
+w4_pong.py
 
